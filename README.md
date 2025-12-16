@@ -1,38 +1,31 @@
 ## Hi 👋 I'm Nirbhay Singh
 
-Backend Engineer | Java | Spring Boot | MongoDB | FinTech
+Backend Engineer | Java | Spring Boot | MongoDB | FinTech  
+Building scalable financial platforms at **Solfin**
 
-💼 Currently working at **Solfin**, building scalable financial platforms  
-🚀 Experienced in Loan Management Systems, EPC onboarding, and Notification Services
+---
+
+### 🔥 GitHub Activity & Streaks
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirbhay-solfin&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirbhay-solfin&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhay-solfin&layout=compact)
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Java
-- **Backend:** Spring Boot, Hibernate, JPA
-- **Databases:** MongoDB, PostgreSQL
-- **Architecture:** REST APIs, Microservices
-- **Automation:** Selenium
-- **DevOps & Tools:** Docker, NGINX, Maven, Git
+- Java, Spring Boot, Hibernate, JPA
+- MongoDB, PostgreSQL
+- REST APIs, Microservices
+- Selenium, Maven
+- Docker, NGINX
 
 ---
 
-### 📌 What I’m Working On
-- Loan workflow & multi-stage verification systems
+### 📌 Current Focus
+- Loan Management & EPC onboarding systems
 - Notification services (Email & WhatsApp)
-- MongoDB aggregations & reporting
-- System design for FinTech platforms
-
----
-
-### 📈 GitHub Focus
-- Clean, maintainable backend code
-- Real-world production use cases
-- Scalable system design
-
----
-
-### 📫 Connect With Me
-- 💼 Company: Solfin
-- 📧 Email: <your-email>
-- 🔗 LinkedIn: <your-link>
+- MongoDB aggregation & reporting
+- FinTech system design
