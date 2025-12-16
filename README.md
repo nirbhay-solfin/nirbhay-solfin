@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi 👋 I'm Nirbhay Singh
 
-<!--
-**nirbhay-solfin/nirbhay-solfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer | Java | Spring Boot | MongoDB | FinTech
 
-Here are some ideas to get you started:
+💼 Currently working at **Solfin**, building scalable financial platforms  
+🚀 Experienced in Loan Management Systems, EPC onboarding, and Notification Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Languages:** Java
+- **Backend:** Spring Boot, Hibernate, JPA
+- **Databases:** MongoDB, PostgreSQL
+- **Architecture:** REST APIs, Microservices
+- **Automation:** Selenium
+- **DevOps & Tools:** Docker, NGINX, Maven, Git
+
+---
+
+### 📌 What I’m Working On
+- Loan workflow & multi-stage verification systems
+- Notification services (Email & WhatsApp)
+- MongoDB aggregations & reporting
+- System design for FinTech platforms
+
+---
+
+### 📈 GitHub Focus
+- Clean, maintainable backend code
+- Real-world production use cases
+- Scalable system design
+
+---
+
+### 📫 Connect With Me
+- 💼 Company: Solfin
+- 📧 Email: <your-email>
+- 🔗 LinkedIn: <your-link>
